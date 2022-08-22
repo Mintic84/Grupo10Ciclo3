@@ -1,6 +1,6 @@
 def tipodefigurita(figuritas):
-    #resultado = []
-    #resultado.append(str(figuritas[0]))
+    resultado = []
+    resultado.append(str(figuritas[0]))
     for i in figuritas:
         if str(i) in resultado:
             pass
